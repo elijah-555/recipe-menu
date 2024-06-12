@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Young+Serif&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
+
+img {
+  width: 100%;
+  max-width: 500px;
+}
+
+h1 {
+  font-family: "Young Serif", serif;
+}
+
+.macros {
+  display: flex;
+  justify-content: space-between;
+}
+
+.prep-time {
+  background-color: hsl(330, 100%, 98%);
+  font-family: "Outfit", sans-serif;
+  color: hsl(332, 51%, 32%);
+}
+
+.prep-list {
+  color: hsl(332, 51%, 32%);
+}
+
+.ingredient-header,
+.instruction-header,
+.nutrition-header {
+    font-family: "Young Serif", sans-serif;
+    color: hsl(14, 45%, 36%);
+}
+
+.ingredient-list,
+.instruction-list,
+.value {
+  color: hsl(14, 45%, 36%);
+  font-family: "Outfit", sans-serif;
+}
+
+.prep-text,
+.ingredient-text,
+.instruction-text,
+.nutrition-text,
+.table {
+  color: black;
+  font-family: "Outfit", sans-serif;
+}
