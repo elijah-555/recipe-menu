@@ -47,9 +47,9 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+My main learnings from this Project.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+This is my first time coding a web page without watching a tutorial or following along with anything. I am learning a lot, like how useful classes are when it comes to styling elements as a group with CSS. One thing that I learned from Ethan in Slack, is that you should wrap your content in a container and row div so that you can move them further away from the edge of the screen.
 
 ### Continued development
 
